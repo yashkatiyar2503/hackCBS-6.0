@@ -8,6 +8,6 @@
 
 ## Team Members
 - Yash Katiyar
-- Parh Rawat
+- Parth Rawat
 - Unnati Agarwal
 - Utkarsh Gupta
