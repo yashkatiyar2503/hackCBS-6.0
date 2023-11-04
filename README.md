@@ -7,7 +7,7 @@
 ## Presentation
 
 ## Team Members
-+ Yash Katiyar
+- Yash Katiyar
 - Parh Rawat
 - Unnati Agarwal
 - Utkarsh Gupta
